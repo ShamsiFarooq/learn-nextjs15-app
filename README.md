@@ -1,2 +1,17 @@
 # learn-nextjs15-app
-A hands-on full-stack project built with Next.js 15, exploring React Server Components, App Router, route handlers, server actions, and authentication with Clerk. Perfect for learning production-ready Next.js with modern best practices.
+# 🚀 Next.js 15 Full-Stack App
+
+A hands-on full-stack project built using **Next.js 15**, designed to explore the latest features like **React Server Components (RSC)**, **App Router**, **Route Handlers**, **Data Fetching**, **Server Actions**, and **Authentication with Clerk**.
+
+
+---
+
+## 🛠 Tech Stack
+
+| Frontend    | Next.js 15, React, Tailwind CSS       |
+|-------------|----------------------------------------|
+| Backend     | Server Actions, Route Handlers (API)  |
+| Auth        | Clerk                                 |
+| Deployment  | Vercel (recommended)                  |
+
+---
